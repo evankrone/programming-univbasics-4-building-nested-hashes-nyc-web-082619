@@ -31,14 +31,11 @@ def monopoly_with_third_tier
 	      :ownership2 => {},
 	      :ownership3 => {},
 	      :ownership4 => {}
-	      
-	    
-	    
 	      :names => {},
-	    }
+	      }
 	    }
 	  }
-	}
+	
 end
 
 def monopoly_with_fourth_tier
